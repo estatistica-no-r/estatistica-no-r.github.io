@@ -1,6 +1,6 @@
 # Site title and subtitle. This is used in _includes/header.html
-title: 'jekyll-docs-template'
-subtitle: 'Painless documentation for your projects'
+title: 'Estatística no R'
+subtitle: 'Dicas simples de estatística no R'
 
 # if you wish to integrate disqus on pages set your shortname here
 disqus_shortname: ''
@@ -19,11 +19,7 @@ codeurl: 'https://github.com/bruth/jekyll-docs-template'
 
 # Default categories (in order) to appear in the navigation
 sections: [
-    ['doc', 'Documentation'],
-    ['tut', 'Tutorial'],
-    ['ref', 'Reference'],
-    ['dev', 'Developers'],
-    ['post', 'Posts']
+    ['basica', 'Estatística Básica']
 ]
 
 # Keep as an empty string if served up at the root. If served up at a specific
