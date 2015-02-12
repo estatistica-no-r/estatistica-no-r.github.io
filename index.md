@@ -3,16 +3,10 @@ layout: default
 title: "Jekyll Docs Template"
 ---
 
-### Get Started
+### O que é?
 
-Start by [creating a new post](http://jekyllrb.com/docs/posts/) one of the categories listed in `_config.yml`. It will appear in the navigation on the left once recompiled. Or use the supplied script to make creating pages easier:
+O estatistica-no-r é um site com pequenos trechos de teoria e aplicações em R de estatística. Cada página contém a teoria e os exemplos de códigos necessários para aplicá-la no R.
 
-```bash
-ruby bin/jekyll-page "Some Page Title" ref
-```
+### Colabore!
 
-#### Don't Forget
-
-- Add your own content to this page (i.e. `index.md`) and change the `title`
-- Change `title` and `subtitle` defined in `config.yml` for your site
-- Set the `baseurl` in `_config.yml` for your repo if deploying to GitHub pages
+O site inteiro está no [github](https://github.com/estatistica-no-r/estatistica-no-r.github.io), desse modo qualquer pessoa pode submeter alterações e melhorias no site.
