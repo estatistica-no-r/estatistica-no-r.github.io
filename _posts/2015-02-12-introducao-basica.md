@@ -7,4 +7,4 @@ order: 1
 disqus: 1
 ---
 
-$\sum_{y=1}{n}$
+$$\sum_{y=1}{n}$$
