@@ -1,9 +1,9 @@
 # Site title and subtitle. This is used in _includes/header.html
-title: 'Estatística no R'
-subtitle: 'Dicas simples de estatística no R'
+title: 'Soluções Sheldon Ross'
+subtitle: 'Site colaborativo com soluções dos exercícios do livro do Sheldon Ross'
 
 # if you wish to integrate disqus on pages set your shortname here
-disqus_shortname: 'comofaznor'
+disqus_shortname: ''
 
 # if you use google analytics, add your tracking id here
 google_analytics_id: ''
@@ -15,16 +15,16 @@ google_analytics_id: ''
 navigation: 2
 
 # URL to source code, used in _includes/footer.html
-codeurl: 'https://github.com/estatistica-no-r/estatistica-no-r.github.io'
+codeurl: 'https://github.com/dfalbel/solucoes-sheldon-ross'
 
 # Default categories (in order) to appear in the navigation
 sections: [
-    ['basica', 'Estatística Básica']
+    ['cap1', 'Capítulo 1']
 ]
 
 # Keep as an empty string if served up at the root. If served up at a specific
 # path (e.g. on GitHub pages) leave off the trailing slash, e.g. /my-project
-baseurl: ''
+baseurl: '/solucoes-sheldon-ross'
 
 # Dates are not included in permalinks
 permalink: none
