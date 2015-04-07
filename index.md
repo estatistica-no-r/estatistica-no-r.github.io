@@ -5,8 +5,10 @@ title: "Jekyll Docs Template"
 
 ### O que é?
 
-O estatistica-no-r é um site com pequenos trechos de teoria e aplicações em R de estatística. Cada página contém a teoria e os exemplos de códigos necessários para aplicá-la no R.
+Aqui você encontrará soluções dos exercícios do livro "Probabilidade: um curso introdutório com aplicações" do Sheldon Ross.
 
 ### Colabore!
 
-O site inteiro está no [github](https://github.com/estatistica-no-r/estatistica-no-r.github.io), desse modo qualquer pessoa pode submeter alterações e melhorias no site.
+O site inteiro está no [github](https://github.com/solucoes-sheldon-ross/solucoes-sheldon-ross.github.io), desse modo qualquer pessoa pode submeter alterações e melhorias no site. 
+
+Você pode corrigir as soluções e/ou adicionar novas sempre que quiser.
