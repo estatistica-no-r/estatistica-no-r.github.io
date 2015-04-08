@@ -19,7 +19,10 @@ codeurl: 'https://github.com/solucoes-sheldon-ross/solucoes-sheldon-ross.github.
 
 # Default categories (in order) to appear in the navigation
 sections: [
-    ['cap1_prob', 'Problemas Capítulo 1']
+    ['cap1_prob', 'Problemas Capítulo 1'],
+    ['cap1_exer', 'Exercícios Capítulo 1'],
+    ['cap2_prob', 'Problemas Capítulo 2'],
+    ['cap2_exer', 'Exercícios Capítulo 2'],
 ]
 
 # Keep as an empty string if served up at the root. If served up at a specific
